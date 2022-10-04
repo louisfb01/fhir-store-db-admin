@@ -1,0 +1,17 @@
+{
+    "appName": "site-store-db-admin",
+    "instanceCount": 1,
+    "notExposeAsWebApp": false,
+    "containerHttpPort": "$AIDBOX_PORT",
+    "forceSsl": true,
+    "envVars": [
+        {
+            "key": "PGADMIN_DEFAULT_EMAIL",
+            "value": "$PGADMIN_DEFAULT_EMAIL"
+        },
+        {
+            "key": "PGADMIN_DEFAULT_PASSWORD",
+            "value": "$PGADMIN_DEFAULT_PASSWORD"
+        }
+    ]
+}
