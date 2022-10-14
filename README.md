@@ -1,4 +1,4 @@
-# Site store DB admin
+# FHIR store DB admin
 
 ### Overview
 
