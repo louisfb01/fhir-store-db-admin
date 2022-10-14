@@ -1,4 +1,4 @@
 {
-    "appName": "site-store-db-admin",
+    "appName": "fhir-store-db-admin",
     "hasPersistentData": true
 }

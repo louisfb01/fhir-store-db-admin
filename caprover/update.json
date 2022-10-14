@@ -1,5 +1,5 @@
 {
-    "appName": "site-store-db-admin",
+    "appName": "fhir-store-db-admin",
     "instanceCount": 1,
     "notExposeAsWebApp": false,
     "containerHttpPort": "$AIDBOX_PORT",

@@ -1,5 +1,5 @@
 {
-  "name": "site-store-db-admin",
+  "name": "fhir-store-db-admin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
