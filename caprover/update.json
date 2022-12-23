@@ -2,16 +2,15 @@
     "appName": "fhir-store-db-admin",
     "instanceCount": 1,
     "notExposeAsWebApp": false,
-    "containerHttpPort": "$AIDBOX_PORT",
     "forceSsl": true,
     "envVars": [
         {
-            "key": "PGADMIN_DEFAULT_EMAIL",
-            "value": "$PGADMIN_DEFAULT_EMAIL"
+            "key": "CODA_FHIR_STORE_DB_ADMIN_EMAIL",
+            "value": "$CODA_FHIR_STORE_DB_ADMIN_EMAIL"
         },
         {
-            "key": "PGADMIN_DEFAULT_PASSWORD",
-            "value": "$PGADMIN_DEFAULT_PASSWORD"
+            "key": "CODA_FHIR_STORE_DB_ADMIN_PASSWORD",
+            "value": "$CODA_FHIR_STORE_DB_ADMIN_PASSWORD"
         }
     ]
 }
