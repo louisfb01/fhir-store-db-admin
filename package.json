@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/coda-platform/site-store-db-admin.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Louis Mullie",
+  "license": "GPL v3",
   "bugs": {
     "url": "https://github.com/coda-platform/site-store-db-admin/issues"
   },
