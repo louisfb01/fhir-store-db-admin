@@ -2,7 +2,7 @@
     "appName": "fhir-store-db-admin",
     "instanceCount": 1,
     "notExposeAsWebApp": false,
-    "forceSsl": true,
+    "forceSsl": false,
     "envVars": [
         {
             "key": "CODA_FHIR_STORE_DB_ADMIN_EMAIL",
